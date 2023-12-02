@@ -1,0 +1,30 @@
+form {
+    color: grey;
+
+}
+
+body {
+    background-color:ghostwhite;
+}
+
+#First {
+    color:darkgray
+}
+
+#Second {
+    color:darkgray
+}
+
+#ZIPCode {
+    color:darkgrey
+}
+
+h1{
+    color:darkslategray;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: cadetblue;
+}
+
+#Warning {
+    color:red;
+}
